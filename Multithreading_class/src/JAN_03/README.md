@@ -105,5 +105,3 @@ Note : java.lang.Thread class and java.lang.Runnable interface
 Main
 ----
 Program to show main is a thread without method chaning :
-MainThread
->>>>>>> Stashed changes
