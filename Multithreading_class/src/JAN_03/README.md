@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 03-01-2025
 -----------
 Multithreading :
@@ -100,3 +101,9 @@ b) By implementing java.lang.Runnable interface (Functional interface)
 Note : java.lang.Thread class and java.lang.Runnable interface 
        both are available in java.lang package from JDK 1.0V.
  -------------------------------------------------------------
+=======
+Main
+----
+Program to show main is a thread without method chaning :
+MainThread
+>>>>>>> Stashed changes
